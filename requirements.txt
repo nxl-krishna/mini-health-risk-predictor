@@ -1,7 +1,10 @@
+streamlit
 pandas
 numpy
 scikit-learn
 seaborn
 matplotlib
-streamlit
+xgboost
+imbalanced-learn
 altair<5
+pickle-mixin
